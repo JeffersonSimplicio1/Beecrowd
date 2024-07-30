@@ -1,9 +1,10 @@
+package Main.src;
+
 import java.util.Scanner;
 
-public class Main_1004
- {
+public class Main_1008 {
     public static void main(String[] args) {
-      Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
       int a,b, PROD;
 
@@ -12,12 +13,5 @@ public class Main_1004
       PROD = a*b;
       System.out.println("PROD = " + PROD);
 
-
-
-
-
-
-
-
-        }
     }
+}
